@@ -1,4 +1,4 @@
-package csc.groupProject.Bank.Bank;
+package Bank;
 import org.apache.tomcat.jni.Time;
 
 import java.util.*;
